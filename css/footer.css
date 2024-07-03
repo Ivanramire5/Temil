@@ -1,0 +1,23 @@
+
+.footerLanding{
+    background-color: #1B0332;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.h4Footer{
+    color: #ABABAB;
+    padding-top: 10px;
+    text-align: left;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.divFooter{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.fa-brands{
+    color: #ABABAB;
+    padding-left: 10px;
+    font-size: 0.9rem;
+    text-decoration: none;
+}

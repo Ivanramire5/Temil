@@ -1,0 +1,37 @@
+[
+    {
+        "product": "Buzo sin capucha",
+        "material": "Sintetico",
+        "color": "Verde",
+        "precio": "6000",
+        "image": "../imgPrendasSuperiores/B00001.jpg"
+    },
+    {
+        "product": "Tapado con capucha",
+        "material": "Sintetico",
+        "color": "Azul",
+        "precio": "10000",
+        "image": "../imgPrendasSuperiores/C00001.jpg"
+    },
+    {
+        "product": "Buzo sin capucha",
+        "material": "Sintetico",
+        "color": "Negro",
+        "precio": "6000",
+        "image": "../imgPrendasSuperiores/C00002.jpg"
+    },
+    {
+        "product": "Buzo sin capucha",
+        "material": "Sintetico",
+        "color": "Negro y aceituna",
+        "precio": "6000",
+        "image": "../imgPrendasSuperiores/C00003.jpg"
+    },
+    {
+        "product": "Lote de 10 buzos",
+        "material": "Sintetico",
+        "color": "Varios",
+        "precio": "50000",
+        "image": "../imgPrendasSuperiores/prendasSuperiores.jpg"
+    }
+]

@@ -1,0 +1,38 @@
+
+.divTarjeta{
+    background-color: #2f0458;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.imagenTarjeta{
+    width: 100%;
+    height: auto; 
+    object-fit: cover; 
+    max-height: 200px;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.card-title {
+    font-size: 2rem; 
+    color: #FF413C;
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+    color: #9831B8;
+    font-size: 1.3rem;
+}
+.botonTarjeta{
+    display: grid; 
+    align-items: center;
+    margin-left: 140px;
+    margin-right: 140px;
+    background-color: #3831B8;
+    color: #FD6D4F;
+    border-style: solid;
+    border-color: #FD6D4F;
+}

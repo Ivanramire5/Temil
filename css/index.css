@@ -1,0 +1,64 @@
+body{
+    background-color: #ababab28;
+}
+
+.h2Title{
+    text-align: center;
+    color: #ABABAB;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 2rem;
+    background: rgb(56,49,184);
+    background: linear-gradient(0deg, rgba(56,49,184,1) 35%, rgba(27,3,50,1) 100%);
+}
+.cuerpoCarrusel{
+    position: relative;
+    z-index: 5;
+    margin-top: -10px;
+    border-style: solid;
+    border-bottom-color: #3831B8;
+    border-top-color: #3831B8;
+    border-left-color: #3831B8;
+    border-right-color: #3831B8;
+    border-bottom-width: 3px;
+}
+.h3Index{
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 1.7rem;
+    color: #5d07ad;
+    padding-top: 10px;
+}
+.pIndex{
+    text-align: center;
+    color: #5d07ad;
+    font-size: 1.1rem;
+    padding-bottom: 20px;
+}
+
+.card-body{
+    text-align: center;
+    padding-top: 0px;
+    background-color: #5d07ad;
+    border-style: solid;
+    border-color: #5d07ad;
+    
+}
+.card-text{
+    font-size: 1.5rem;
+    color: #ABABAB;
+}
+.card-img-top{
+    border-style: solid;
+    border-color: #5d07ad;
+}
+.infoLogin{
+    color: #ABABAB;
+    background-color: #1B0332;
+    padding-top: 10px;
+    text-align: right;
+    padding-right: 75px;
+}
+.divBackground{
+    background-color: #1B0332;
+}

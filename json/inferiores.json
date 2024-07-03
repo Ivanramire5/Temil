@@ -1,0 +1,59 @@
+
+[
+    {
+        "product": "Lote de pantalones cortos",
+        "material": "sintetico",
+        "color": "varios",
+        "precio": 12000,
+        "image": "../imgPantalones/PantalonCorto.jpg"
+    },
+    {
+        "product": "Lote de pantalones largos",
+        "material": "sintetico",
+        "color": "varios",
+        "precio": 15000,
+        "image": "../imgPantalones/PantalonLargo.jpg"
+    },
+    {
+        "product": "Pantalon largo",
+        "material": "sintetico",
+        "color": "gris",
+        "precio": 5000,
+        "image": "../imgPantalones/PL00001.jpg"
+    },
+    {
+        "product": "Pantalon largo",
+        "material": "sintetico",
+        "color": "negro",
+        "precio": 5000,
+        "image": "../imgPantalones/PL00004.jpg"
+    },
+    {
+        "product": "Pantalon largo",
+        "material": "sintetico",
+        "color": "gris oscuro",
+        "precio": 5000,
+        "image": "../imgPantalones/PL00006.jpg"
+    },
+    {
+        "product": "Pantalon largo",
+        "material": "sintetico",
+        "color": "gris oscuro con blanco",
+        "precio": 5000,
+        "image": "../imgPantalones/PL00007.jpg"
+    },
+    {
+        "product": "Pantalon largo",
+        "material": "sintetico",
+        "color": "Negro",
+        "precio": 5000,
+        "image": "../imgPantalones/PL00009.jpg"
+    },
+    {
+        "product": "Pantalon largo",
+        "material": "sintetico",
+        "color": "Negro con blanco",
+        "precio": 5000,
+        "image": "../imgPantalones/PL00008.jpg"
+    }
+]

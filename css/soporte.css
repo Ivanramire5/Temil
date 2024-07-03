@@ -1,0 +1,40 @@
+
+
+.tarjeta {
+    margin-left: 40%;
+    width: 300px;
+    padding: 20px;
+    background-color: purple;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.tarjeta form {
+    display: flex;
+    flex-direction: column;
+}
+
+.tarjeta label {
+    margin-bottom: 5px;
+}
+
+.tarjeta input[type="email"],
+.tarjeta textarea {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.tarjeta button {
+    padding: 10px 20px;
+    background-color: darkviolet;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

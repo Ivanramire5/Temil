@@ -1,0 +1,54 @@
+.navbarMorado{
+    background-color: #1B0332;
+    padding-top: 10px;
+}
+
+.h1Nav{
+    color: #ABABAB;
+}
+.nav-link {
+    color: #ABABAB;
+    transition: color 0.3s ease; 
+}
+
+.nav-link:hover {
+    color: #FF413C; 
+}
+
+.navbar-toggler{
+    background-color: #9831B8;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.nav-link{
+    text-align: center;
+    margin-left: 20px;
+}
+
+.userAndCart{
+    background-color: #1B0332;
+    text-align: right;
+    padding-bottom: 10px;
+}
+.fa-user{
+    color: #9831B8;
+    margin-right: 20px;
+    font-size: 1.5rem;
+}
+.fa-user:hover{
+    color: #ABABAB;
+}
+
+.fa-cart-shopping{
+    color: #9831B8;
+    margin-right: 30px;
+    font-size: 1.5rem;
+}
+.fa-cart-shopping:hover{
+    color: #ABABAB;
+}
